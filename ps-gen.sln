@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PS.Gen.Test", "PS.Gen.Test\PS.Gen.Test.vbproj", "{6E81D947-2CEB-4A80-AC4B-5B432AD0055C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PS.Gen", "PS.Gen\PS.Gen.vbproj", "{05301CD3-C485-4903-8EB6-B018B1348589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E81D947-2CEB-4A80-AC4B-5B432AD0055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E81D947-2CEB-4A80-AC4B-5B432AD0055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E81D947-2CEB-4A80-AC4B-5B432AD0055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E81D947-2CEB-4A80-AC4B-5B432AD0055C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05301CD3-C485-4903-8EB6-B018B1348589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05301CD3-C485-4903-8EB6-B018B1348589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05301CD3-C485-4903-8EB6-B018B1348589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05301CD3-C485-4903-8EB6-B018B1348589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
